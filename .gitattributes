@@ -1,2 +1,2 @@
-**/Scripts/** linguist-vendored
-**/lib/** linguist-vendored
+**/wwwroot/lib/** linguist-vendored
+**/wwwroot/css/** linguist-vendored
