@@ -1,4 +1,4 @@
-namespace OrderFastFood.Web
+﻿namespace OrderFastFood.Web
 {
     public class PageNames
     {
